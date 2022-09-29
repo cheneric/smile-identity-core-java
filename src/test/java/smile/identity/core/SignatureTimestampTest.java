@@ -11,7 +11,7 @@ import org.json.simple.parser.JSONParser;
 import org.junit.Before;
 import org.junit.Test;
 
-public class SignatureTest {
+public class SignatureTimestampTest {
 	
     private String PARTNER_ID = "<PARTNER_ID>";
     private String API_KEY = "<API_KEY>";
